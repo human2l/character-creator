@@ -1,0 +1,9 @@
+.backgroundScreen {
+  z-index: -1;
+  position: fixed;
+  top: 60%;
+  left: 0;
+  height: 40%;
+  width: 100%;
+  background-color: hsl(195deg, 20%, 86%);
+}
